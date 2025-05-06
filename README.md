@@ -1,5 +1,5 @@
 # Project1_Eniac_Magist
-This is the first data analysis project and it has been done in a group during the Data Science Bottcamp at WBS Coding School.
-The group consists of Sutanni Sarkar, Marc Vollmer and myself.
+This is the first data analysis project, which was completed as a group during the Data Science Bootcamp at WBS Coding School.
+My group consists of Sutanni Sarkar, Marc Vollmer and me.
 
-For further information please contact me by email.
+Please contact me by email for further information.
